@@ -13,7 +13,7 @@ Devise a set of software tools that enable deep space explorers use earth-design
 
 ## Initial set of tools
 - Browser plugin for chrome, in which the user can test high latency's effect on web resources
-- Orbital dynamics latency api
+- Two Body orbital dynamics latency api
 - Virtual Machine with high latency networking as a sandbox environment to further develop tools
 - Plugins for commercial databases
 	* postgres
